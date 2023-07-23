@@ -1,2 +1,2 @@
-# Air Quality Preeiction System using ML & PowerBI
+# Air Quality Prediction System using ML & PowerBI
  
